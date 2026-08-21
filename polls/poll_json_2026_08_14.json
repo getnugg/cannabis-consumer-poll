@@ -9,8 +9,7 @@
   "questions": [
     {
       "question_id": "what_would_consumers_fix_first_for_cannabis_safety",
-      "question_text": "If you could fix ONE thing about cannabis safety, what would be your top priority?
-(n=513)",
+      "question_text": "If you could fix ONE thing about cannabis safety, what would be your top priority?(n=513)",
       "response_type": "multiple_choice",
       "results": {
         "Cracking down on unregulated products": 68,

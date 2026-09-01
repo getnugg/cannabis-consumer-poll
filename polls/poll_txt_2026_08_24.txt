@@ -1,0 +1,49 @@
+NuggMD Cannabis Consumer Poll
+August 20, 2026 - August 24, 2026
+Sample: 527 respondents | Margin of error: ±4.27%
+
+
+═══════════════════════════════════════════════════════════════════
+
+
+QUESTION 1: Are you aware of the testing standards for products sold at locations other than licensed dispensaries?
+(n=527)
+
+
+RESULTS:
+20% - Yes, I check product testing before buying 
+27% - No, I assume it is tested/regulated 
+26% - No, I assume it isn’t tested/regulated 
+8%  - I don’t care, it doesn't change what I buy 
+20%  - I never thought about it 
+
+
+═══════════════════════════════════════════════════════════════════
+
+
+METHODOLOGY:
+Digital questionnaire sent to verified, representative sample of cannabis consumers in state-legal markets. Targeted sampling from verified consumer database with multi-point validation including consumption verification, attention checks, and statistical outlier detection.
+
+
+SAMPLE DETAILS:
+- Population: Representative sample of cannabis consumers in state-legal markets
+- Survey Method: Digital questionnaire via secure online platform
+- Confidence Level: 95%
+- Z-score: 1.96
+
+
+CONTACT:
+Media inquiries: tyler.e@getnugg.com
+Full data and methodology: https://github.com/getnugg/cannabis-consumer-poll
+
+
+═══════════════════════════════════════════════════════════════════
+
+
+About NuggMD Cannabis Consumer Poll:
+The NuggMD Cannabis Consumer Poll surveys a validated, representative
+sample of 1.2+ million cannabis consumers in state-legal markets.
+
+
+Repository: https://github.com/getnugg/cannabis-consumer-poll
+Website: https://newsroom.nuggmd.com/
